@@ -5,7 +5,7 @@ browser = webdriver.Chrome('chromedriver.exe')
 browser.get('https://itera-qa.azurewebsites.net/home/automation')
 print(browser.title)
 
-
+prakashhole selenium project
 
 enter_name_xpath = '//input[@id="name"]'
 mobile_no_xpath = '//input[@id="phone"]'
